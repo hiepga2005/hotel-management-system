@@ -53,3 +53,8 @@ Các tài liệu mô tả, kế hoạch kiểm thử và test case được lưu
 ## 7. Mục đích repository
 
 Repository này được sử dụng để giới thiệu và lưu trữ tài liệu của đề tài Website Quản lý Khách sạn – Nhóm 6.
+## 8. Video và tài liệu thuyết trình
+
+
+### Video thuyết trình
+[Nhấn vào đây để xem video thuyết trình](https://drive.google.com/file/d/1CYGDHNkzRr5Pq_eCoamUmOZtdMo8ZfSt/view?usp=sharing)
